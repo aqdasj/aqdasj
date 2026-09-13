@@ -1,10 +1,10 @@
-Hi there 👋
+Hi there, 
 
 I’m Aqdas, a data science graduate and data & reporting analyst who enjoys exploring real-world datasets and turning them into clear insights. 
 
-- 🔭  Currently working on data projects involving churn analysis, public city data insights, and interactive dashboards, plus other personal projects using SQL, Python, and various data visualization tools
-- 🌱  Taking DataCamp certifications in SQL and data analysis to continue growing my skills
-- 👯 Open to collaborating on data and visualization projects, reach out anytime at juya.aqdas@gmail.com
+- Currently working on data projects involving churn analysis, public city data insights, and interactive dashboards, plus other personal projects using SQL, Python, and various data visualization tools
+- Taking DataCamp certifications in SQL and data analysis to continue growing my skills
+- Open to collaborating on data and visualization projects, reach out anytime at juya.aqdas@gmail.com
 
 <!--
 **aqdasj/aqdasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
