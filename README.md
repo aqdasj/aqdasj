@@ -1,9 +1,9 @@
-Hi there, 
+Hi there! 👋
 
-I’m Aqdas, a data science graduate and data & reporting analyst who enjoys exploring real-world datasets and turning them into clear insights. 
+I'm Aqdas, a Data Science graduate with experience in data analysis and reporting. I enjoy exploring data, finding patterns, and learning new ways to solve problems.
 
-- Currently working on data projects involving churn analysis, public city data insights, and interactive dashboards, plus other personal projects using SQL, Python, and various data visualization tools
-- Taking DataCamp certifications in SQL and data analysis to continue growing my skills
+- I'm currently working on personal projects using Python, SQL, and data visualization tools to improve my skills and gain more hands-on experience.
+- I'm always looking for opportunities to learn, grow, and work on interesting projects.
 - Open to collaborating on data and visualization projects, reach out anytime at juya.aqdas@gmail.com
 
 <!--
