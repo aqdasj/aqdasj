@@ -1,4 +1,4 @@
-Hi there! 👋
+Hi!
 
 I'm Aqdas, a Data Science graduate with experience in data analysis and reporting. I enjoy exploring data, finding patterns, and learning new ways to solve problems.
 
